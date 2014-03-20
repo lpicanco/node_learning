@@ -1,2 +1,2 @@
-node_learning
-=============
+Estudos sobre node.js e tecnologias relacionadas.
+==================================================
